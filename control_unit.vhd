@@ -36,7 +36,7 @@ begin
 		end if;
 	end process;  
 	
-	-- Funzione d'uscita --
+	-- Output function --
 	start <= '1' when state = idle else '0';
 	writeInit <= '1' when state = init else '0';
 	writePos <= '1' when state = incrementpos else '0';
