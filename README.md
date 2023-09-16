@@ -14,5 +14,5 @@ The realization of the system was carried out through the implementation of thre
 ## Test benches and simulations
 At the end, the simulations of the test benches that were written to verify the correct functioning of the system were carried out. I verified that the convolution indices were incremented correctly and monitored the changing states of the component and their respective waveforms. The simulation results show that the component is performing as expected and that the test benches were effective in verifying that the component was functioning correctly.
 <p align="center">
-  <img width="500" height="350" src="https://github.com/svtmontagna/Architecture-for-Execution-of-SCNN-in-VHDL/blob/main/Images/writeInit.png?raw=true">
+  <img width="800" height="350" src="https://github.com/svtmontagna/Architecture-for-Execution-of-SCNN-in-VHDL/blob/main/Images/writeInit.png?raw=true">
 </p>
