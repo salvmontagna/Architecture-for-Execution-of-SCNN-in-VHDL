@@ -3,7 +3,7 @@ This project was designed for bachelor thesis and consists in the implementation
 
 ## FSM
 <p align="center">
-  <img width="500" height="350" src="https://www.salvatoremontagna.it/assets/img/fsm.png">
+  <img width="500" height="350" src="https://github.com/svtmontagna/Architecture-for-Execution-of-SCNN-in-VHDL/blob/main/Images/fsm.png?raw=true">
 </p>
 The proposed state diagram shows the sequence of operations and the transitions between states that occur during the execution of a convolution operation on a computational system. Specifically, the presented diagram is composed of 7 states, each of which represents a specific phase of the convolution process.
 
@@ -13,3 +13,6 @@ The realization of the system was carried out through the implementation of thre
 
 ## Test benches and simulations
 At the end, the simulations of the test benches that were written to verify the correct functioning of the system were carried out. I verified that the convolution indices were incremented correctly and monitored the changing states of the component and their respective waveforms. The simulation results show that the component is performing as expected and that the test benches were effective in verifying that the component was functioning correctly.
+<p align="center">
+  <img width="500" height="350" src="https://github.com/svtmontagna/Architecture-for-Execution-of-SCNN-in-VHDL/blob/main/Images/fsm.png?raw=true">
+</p>
